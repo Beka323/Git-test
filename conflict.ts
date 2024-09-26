@@ -1,1 +1,1 @@
-console.log('git featureOne')
+console.log('git master conflict resolve')
